@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://192.168.202.131:9980/mansoor/repository/wallmart-sanpshot/</url>
+	      <url>http://192.168.202.131:9980/mansoor/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Wallmart Releases Nexus Repository</name>
-	      <url>http://192.168.202.131:9980/mansoor/repository/wallmart-release</url>
+	      <url>http://192.168.202.128:8081/mansoorkazmi/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Wallmart Snapshot Nexus Repository </name>
-	      <url>http://192.168.202.131:9980/mansoor/repository/wallmart-snapshot/</url>
+	      <url>http://192.168.202.128:8081/mansoorkazmi/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
